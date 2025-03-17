@@ -1,4 +1,4 @@
-# WhereItIs - Server Side
+# WhereIsIt - Server Side
 
 ## Project Overview 🚀
 
