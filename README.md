@@ -2,7 +2,7 @@
 
 ## Project Overview 🚀
 
-**WhereItIs** is a platform that facilitates the process of reconnecting lost items with their rightful owners. The platform enables users to report lost items, search through found items, and efficiently communicate with others to recover what’s been misplaced. The server-side code is responsible for handling requests related to lost and found items, including CRUD operations for item data.
+**WhereIsIt** is a platform that facilitates the process of reconnecting lost items with their rightful owners. The platform enables users to report lost items, search through found items, and efficiently communicate with others to recover what’s been misplaced. The server-side code is responsible for handling requests related to lost and found items, including CRUD operations for item data.
 
 ## Key Features 🌟
 
